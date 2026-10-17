@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋! These are all the projects I've done throughout the course that I'm in 
+https://1drv.ms/f/c/7f07e89289abee9a/IgBtOvYQdbOiTYaWXrBZcAk3AROJ8wCDI4rShhSEnCH2llk?e=5FaqAZ
+
 
 This project is me creating a mini gpt 10/17/2026
 
