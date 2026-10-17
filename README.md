@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+This project is me creating a mini gpt 10/17/2026
+
 Here's me training an ai model to recognize a fork, knife, and spoon to learn machine learning
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
